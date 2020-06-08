@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths xmlns:android="http://schemas.android.com/apk/res/android">
+    <external-path
+        name="12"
+        path="">//若为空那么就共享整个sd卡，也可以写具体的我们新建文件的路径
+    </external-path>
+</paths>
